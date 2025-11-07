@@ -1,2 +1,2 @@
 # DOM
-Aquí tiramos los codiguistos del DOM
+Aquí tiramos los codigos del DOM (Document Object Model)
